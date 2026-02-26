@@ -1,0 +1,16 @@
+# Core Dependencies
+opencv-python-headless
+diffusers==0.31.0
+transformers==4.46.0
+accelerate>=0.25.0
+peft>=0.6.0
+safetensors>=0.4.1
+controlnet-aux>=0.0.7
+mediapipe>=0.10.0
+gradio>=4.0.0
+numpy>=1.24.0
+Pillow>=10.0.0
+wget>=3.2
+
+# Hugging Face Deployment & Stability
+protobuf==3.20.3
