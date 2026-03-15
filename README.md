@@ -13,6 +13,8 @@ short_description: AI-based Non-verbal Emotional Externalization Platform
 
 # 🏛️ MindPalette (마인드팔레트)
 
+📗 **[프로젝트 인수인계서 바로가기 (Handover Document)](./인수인계서.md)**
+
 **"내면의 언어를 시각화하여 정서적 안정과 통찰을 돕는 AI 심리 분석 및 정서 발산 플랫폼"**
 
 🔗 **GitHub Repository:** [https://github.com/jiha-hub/Jiha_DigitalAI_ArtTherapy](https://github.com/jiha-hub/Jiha_DigitalAI_ArtTherapy)
